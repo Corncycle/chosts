@@ -1,5 +1,5 @@
 # chosts
-cohost! is an online platform that allows users to make posts contain html markup with inline css (with restrictions)
+cohost! is an online platform that allows users to make posts containing HTML markup with inline css (with restrictions)
 
 This repository contains the source code and raw HTML for my gimmick posts on cohost.org
 
