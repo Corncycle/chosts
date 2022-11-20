@@ -1,2 +1,7 @@
 # chosts
 Source code and raw HTML for my gimmick posts on cohost.org
+I make these in Python with the xml.etree API
+
+Live post links:
+Five Step Nethack: https://cohost.org/Corncycle/post/275349-five-step-nethack
+coquest!: https://cohost.org/Corncycle/post/362844-div-style-line-hei
