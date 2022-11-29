@@ -1,0 +1,3 @@
+[tomato .oneTall] {
+    height: 1px;
+}

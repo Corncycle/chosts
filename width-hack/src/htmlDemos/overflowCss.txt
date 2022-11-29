@@ -1,0 +1,6 @@
+.wrapperDiv {
+    width: 160px;
+    height: 120px;
+    overflow: hidden;
+    font-size: 0;
+}

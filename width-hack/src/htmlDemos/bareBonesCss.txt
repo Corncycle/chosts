@@ -1,0 +1,26 @@
+[turquoise .memory] {
+    display: inline-flex;
+    position: relative;
+    padding-right: 160px;
+    padding-bottom: 120px;
+    background: [turquoise turquoise];
+}
+[#83254f .hero] {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 40px;
+    height: 40px;
+    background: url('https://staging.cohostcdn.org/attachment/7eadd433-1902-4521-b1b8-e23738a8112c/eggbug.png') 0% 0% / 100% 100%;
+}
+[plum .button] {    
+    position: absolute;
+    top: 70px; 
+    left: 90px;
+    width: 20px;
+    height: 20px;
+    background: [plum plum];
+}
+.oneWide {    
+    width:1px;
+}

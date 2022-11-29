@@ -1,0 +1,4 @@
+[royalblue .verticalButtonsContainer] {
+    display: inline-flex;
+    flex-direction: column;
+}
